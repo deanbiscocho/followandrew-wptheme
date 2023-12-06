@@ -1,0 +1,12 @@
+# Ignore configuration files that may contain sensitive information
+wp-config.php
+wp-config-local.php
+wp-config-staging.php
+wp-config-production.php
+
+# Ignore specific WordPress directories
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/cache/
+wp-content/debug.log
